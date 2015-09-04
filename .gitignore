@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+target/egovframework-all-in-one.war
+target/maven-archiver/pom.properties
+*.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+*.tmp
+*.zip
+*.lst
+target/maven-archiver/pom.properties
+*.lst
+*.lst
+target/maven-archiver/pom.properties
